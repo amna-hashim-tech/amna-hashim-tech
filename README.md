@@ -1,16 +1,29 @@
-## Hi there 👋
+# Amna Albasher | Cloud & DevOps Engineer
 
-<!--
-**amna-hashim-tech/amna-hashim-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure Cloud & DevOps Engineer with 5+ years of experience building 
+enterprise infrastructure across the UAE.
 
-Here are some ideas to get you started:
+Terraform | Kubernetes | CI/CD | Azure | E-Commerce Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### CloudBite — Enterprise AKS Platform
+Multi-repo cloud-native platform with full DevOps pipeline
+- [App](https://github.com/amna-hashim-tech/amna-hashim-tech-cloudbite-app)
+- [Pipelines](https://github.com/amna-hashim-tech/cloudbite-pipelines)
+- [Infrastructure](https://github.com/amna-hashim-tech/cloudbite-infrastructure)
+- [Helm Charts](https://github.com/amna-hashim-tech/cloudbite-helm)
+
+### DevOps Status Monitor
+Real-time cloud platform health monitoring dashboard
+- [Repo](https://github.com/amna-hashim-tech/devops-health-api) | [Live Demo](https://devops-health-api-three.vercel.app)
+
+### Smart Infrastructure Advisor
+AI-powered Azure infrastructure recommendations
+- [Repo](https://github.com/amna-hashim-tech/smart-infrastructure-advisor)
+
+---
+
+ Dubai, UAE | 💼 [LinkedIn](https://www.linkedin.com/in/amna-albasher-5139181aa)
