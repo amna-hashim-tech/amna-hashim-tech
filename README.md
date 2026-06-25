@@ -14,6 +14,3 @@ Real-time cloud platform health monitoring dashboard
 ### Smart Infrastructure Advisor
 AI-powered Azure infrastructure recommendations
 - [Repo](https://github.com/amna-hashim-tech/smart-infrastructure-advisor)
-
----
-
